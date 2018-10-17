@@ -16,4 +16,6 @@ end
 
 def move(board, index, move)
   
+  board[index] = move
+
 end
